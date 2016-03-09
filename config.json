@@ -5,16 +5,9 @@
     {
       "name": "rabbitmq",
       "req_interval": "10s",
-      "url": "http://127.0.0.1:15672",
-      "uname": "guest",
-      "password": "guest"
-    },
-    {
-      "name": "rabbitmq2",
-      "req_interval": "10s",
-      "url": "http://127.0.0.1:15673",
-      "uname": "guest",
-      "password": "guest"
+      "url": "http://livedata.rabbitmq-web.service.consul.xpr.dex.nu:15672",
+      "uname": "human",
+      "password": "human"
     }
   ]
 }
